@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="close_tab" mtime="1391197431" type="string">
+		<stringvalue>&lt;Primary&gt;minus</stringvalue>
+	</entry>
+	<entry name="new_tab" mtime="1391197429" type="string">
+		<stringvalue>&lt;Primary&gt;equal</stringvalue>
+	</entry>
+	<entry name="next_tab" mtime="1389944705" type="string">
+		<stringvalue>&lt;Primary&gt;l</stringvalue>
+	</entry>
+	<entry name="previous_tab" mtime="1389944703" type="string">
+		<stringvalue>&lt;Primary&gt;h</stringvalue>
+	</entry>
+	<entry name="toggle_fullscreen" mtime="1388631549" type="string">
+		<stringvalue>&lt;Super&gt;f</stringvalue>
+	</entry>
+</gconf>
