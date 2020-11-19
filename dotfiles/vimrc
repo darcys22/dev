@@ -415,4 +415,4 @@ au BufRead,BufNewFile *.rabl setf ruby
 nmap <silent> ,/ :nohlsearch<CR>
 
 nmap <leader>m :wall!<CR>:make<CR>
-nmap <leader>CM :CMAKE<CR>
+nmap <leader>CM :CMake<CR>
