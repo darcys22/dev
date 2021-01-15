@@ -416,3 +416,6 @@ nmap <silent> ,/ :nohlsearch<CR>
 
 nmap <leader>m :wall!<CR>:make<CR>
 nmap <leader>CM :CMake<CR>
+
+"CTags will search parent folders for TAGS file"
+set tags=tags;/
