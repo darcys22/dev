@@ -2,7 +2,7 @@
   ui = auto
 [user]
 	name = Sean Darcy
-  email = sean@loki.network
+  email = darcys22@gmail.com
 [push]
   default = simple
 [alias]
@@ -20,3 +20,5 @@
 [pull]
   rebase = true
 
+[core]
+	editor = vim
