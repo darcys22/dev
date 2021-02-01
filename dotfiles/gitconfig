@@ -1,7 +1,7 @@
 [color]
   ui = auto
 [user]
-	name = Sean Darcy
+  name = Sean Darcy
   email = darcys22@gmail.com
 [push]
   default = simple
@@ -21,4 +21,4 @@
   rebase = true
 
 [core]
-	editor = vim
+  editor = vim
