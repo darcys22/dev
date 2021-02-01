@@ -419,4 +419,6 @@ nmap <leader>CM :CMake<CR>
 
 "CTags will search parent folders for TAGS file use Ctrl-] to open in new buffer, <leader>Ctrl-] to open in new tab"
 set tags=tags;/
-:nnoremap <silent><Leader><C-]> <C-w><C-]><C-w>T
+nnoremap <silent><Leader><C-]> <C-w><C-]><C-w>T
+
+autocmd BufNewFile,BufRead *.bt set filetype=c
