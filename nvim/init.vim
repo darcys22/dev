@@ -130,5 +130,6 @@ require('telescope').setup{
 }
 EOF
 
-nnoremap <Leader>ee oMDEBUG(__FILE__ << ":" << __LINE__ << " (" << __func__ << ") TODO sean remove this - " << "AAAAAAAAAA" << " - debug");<esc>0
+nnoremap <Leader>er oMDEBUG(__FILE__ << ":" << __LINE__ << " (" << __func__ << ") TODO sean remove this - " << "AAAAAAAAAA" << " - debug");<esc>0
+nnoremap <Leader>ee ostd::cout << __FILE__ << ":" << __LINE__ << " (" << __func__ << ") TODO sean remove this - " << "AAAAAAAAAA" << " - debug\n";<esc>0
 
